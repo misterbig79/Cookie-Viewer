@@ -209,4 +209,4 @@ Cookie Viewer is available as a complete free version with all features and upda
 Take control of your cookies today! Download Cookie Viewer for free and safeguard your online privacy.
 
 ---
-**Last updated:** 2026-10-08 21:55:40 UTC
+**Last updated:** 2026-10-09 01:56:00 UTC
